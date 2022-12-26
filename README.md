@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Admin Dashboard
+- 🔭 I’m currently working on Ecommerce App.
 - 🌱 I’m currently learning Javascript and React.js.
 - 👯 I’m looking to collaborate on React Project
 - 🤔 I’m looking for help with ...
